@@ -17,5 +17,6 @@ Make migrations using-<br>
   2. python manage.py migrate<br>
 Run the server using - <br>
   python manage.py runserver<br>
+  Get the best shoing expericence.
 
 
